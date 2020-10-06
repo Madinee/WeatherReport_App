@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b00952d6cf1851b040955ba5062711f",
+    "revision": "039a035c0f95be086700a9c99ff41dd3",
     "url": "/WeatherReport_App/index.html"
   },
   {
-    "revision": "8e3e6fff21f2950e7a83",
-    "url": "/WeatherReport_App/static/css/main.1c3a0d5e.chunk.css"
+    "revision": "1638f17bf4c13fbb9eb0",
+    "url": "/WeatherReport_App/static/css/main.1e47f1b4.chunk.css"
   },
   {
     "revision": "8503dc8a89af0a310930",
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeatherReport_App/static/js/2.1f3f651e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e3e6fff21f2950e7a83",
+    "revision": "1638f17bf4c13fbb9eb0",
     "url": "/WeatherReport_App/static/js/main.5252b35f.chunk.js"
   },
   {
     "revision": "f3eba29cd488f2cbd706",
     "url": "/WeatherReport_App/static/js/runtime-main.76f3d611.js"
+  },
+  {
+    "revision": "7fc355ab8e98df9bd49240ed3e3372c8",
+    "url": "/WeatherReport_App/static/media/img3.7fc355ab.jpg"
   }
 ]);
