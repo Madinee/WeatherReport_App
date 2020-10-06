@@ -12,7 +12,7 @@ body,
 
 .main-container {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418)),
-    url("img3.jpg");
+    url("https://github.com/Madinee/WeatherReport_App/blob/main/public/images/img3.jpg");
   background-size: cover;
   background-position: center;
 }
